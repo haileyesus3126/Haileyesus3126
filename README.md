@@ -186,13 +186,14 @@ An internal application for organizing commercial property and lease records.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=haileyesus3126&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=haileyesus3126&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=tokyonight)
 
 </div>
+
 
 ---
 
