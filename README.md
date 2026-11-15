@@ -1,119 +1,132 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Haileyesus Mesfin
+# Hi there! 👋 I'm Haileyesus Mesfin
 
-### Website Developer | Junior Software Developer
+### Website Developer | Junior Software Developer | Tech Enthusiast
 
-**Building real-world applications and learning something new every day.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Real-World+Web+Applications;Learning+React%2C+Next.js+and+Flutter;Keep+Learning.+Keep+Building.+Keep+Improving." alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;JavaScript+%7C+React+%7C+Next.js;Node.js+%7C+MongoDB+%7C+PostgreSQL;Building+practical+web+applications;Keep+Learning.+Keep+Building." alt="Animated introduction" />
+![Profile Views](https://komarev.com/ghpvc/?username=haileyesus3126&color=blueviolet&style=for-the-badge)
 
-<br/>
-
-<a href="https://haileyesus-portfolio7.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/haileyesus3126?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore_Code-8957E5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:haileyesus2024@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge)](https://haileyesus-portfolio7.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/haileyesus3126)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haileyesus2024@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a software developer from **Addis Ababa, Ethiopia**, with a BSc in Information and Communication Technology from the **University of Gondar**.
+I'm a self-motivated developer from Addis Ababa, Ethiopia, with a BSc in Information and Communication Technology from the University of Gondar.
 
-I enjoy developing websites, building useful applications, and automating repetitive tasks.
+I enjoy building practical web applications, automation tools, and software that solves real-world problems.
 
-My previous professional experience includes business data management, system analysis, and workflow automation.
-
-- 💻 Building applications with React, Next.js and Node.js
-- 🌱 Learning Flutter, Dart, UI/UX and software testing
-- 🛠️ Interested in solving real business problems
-- 🎯 Working toward becoming a professional software engineer
+- 🔭 Building practical web development projects
+- 🌱 Learning Flutter, UI/UX, and software testing
+- 💻 Interested in React, Next.js, and Node.js
+- 🛠️ Experience with business data and automation
+- 🎯 Goal: Become a skilled professional software developer
+- 📍 Based in Addis Ababa, Ethiopia
 - 🤝 Open to junior developer opportunities and collaboration
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
-<div align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart&theme=dark" alt="Programming languages" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<br/><br/>
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter&theme=dark" alt="Frameworks and libraries" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<br/><br/>
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,git,github&theme=dark" alt="Databases and development tools" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-<br/><br/>
+### Databases
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma&theme=dark" alt="Additional tools" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-</div>
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<div align="center">
+### 01 — TaskMaster Pro
 
-<img src="https://streak-stats.demolab.com?user=haileyesus3126&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=radical&hide_border=true" alt="Most used repository languages" />
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🚀 TaskMaster Pro
-
-A MERN-based task management application.
+A task management application designed to help teams organize their work.
 
 **Technologies:** React, Node.js, Express, MongoDB
 
 **Features:**
 - JWT authentication
 - Role-based access control
-- Task creation, editing and deletion
+- Task creation, editing, and deletion
+- Task assignments
 - Comments and task tracking
 - Protected routes and dashboards
 
-[View Repository](https://github.com/haileyesus3126/taskmaster-pro)
+### 02 — StoreMaster Pro
 
-### 🏪 StoreMaster Pro
-
-A store information and change management application.
+A business management application for organizing store information.
 
 **Technologies:** Next.js, PostgreSQL, Prisma
 
 **Features:**
 - Store information management
-- Role-based permissions
-- Change request approvals
+- User roles and permissions
+- Change request approval workflow
 - Audit logs
+- Dashboard and reporting
 - CSV export
 
-### 📚 Ruth Books Library
+### 03 — DMV Luxury Amenity Inventory System
 
-A digital library application.
+An inventory management project focused on organizing and tracking inventory information.
+
+**Project Focus:**
+- Inventory organization
+- Inventory records
+- Business workflow support
+
+### 04 — Ruth Store
+
+A store management project focused on organizing product information and supporting retail operations.
+
+**Project Focus:**
+- Product information organization
+- Store-related data management
+- Practical retail application development
+
+### 05 — Ruth Books Library
+
+A digital library application for discovering and managing books.
 
 **Technologies:** React, Node.js, Express, MongoDB
 
@@ -124,23 +137,70 @@ A digital library application.
 - Admin approval workflow
 - Favorites and downloads
 
-### 🤖 Python Business Automation
+### 06 — Python Business Automation
 
-Automation solutions for repetitive business workflows.
+Automation solutions for repetitive business processes.
 
 **Technologies:** Python, Selenium, Playwright, Excel
 
 **Features:**
 - Invoice data processing
 - Excel data cleaning
-- Browser automation
-- Record verification
+- Automated record organization
+- Browser workflow automation
+- Data verification support
+
+### 07 — Order Issues Management System
+
+An application for tracking vendor order problems.
+
+**Technologies:** PostgreSQL, Prisma
+
+**Features:**
+- Damaged and missing item reporting
+- Vendor issue tracking
+- Credit request management
+- Follow-up reminders
+- Issue status monitoring
+
+### 08 — Rent & Lease Management System
+
+An internal application for organizing commercial property and lease records.
+
+**Features:**
+- Store and landlord information
+- Lease record management
+- Rent payment tracking
+- Payment portal references
+- Business record organization
 
 <div align="center">
 
-### 🔎 Explore More Projects
+[![Repositories](https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/haileyesus3126?tab=repositories)
 
-[**View All My Repositories**](https://github.com/haileyesus3126?tab=repositories)
+</div>
+
+---
+
+## 📊 My GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=haileyesus3126&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/haileyesus3126/Haileyesus3126/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -148,14 +208,14 @@ Automation solutions for repetitive business workflows.
 
 ## 💼 Professional Experience
 
-**Data Management, System Analysis & Automation**  
-Yosal PLC — Previous Experience
+### Data Management, System Analysis & Automation
+**Yosal PLC — Previous Experience**
 
-- Managed and organized business data
+- Managed and processed business data
 - Analyzed operational workflows
 - Developed Python automation scripts
 - Worked on internal business applications
-- Supported reporting and process improvements
+- Supported reporting and process optimization
 
 ---
 
@@ -167,42 +227,35 @@ University of Gondar, Ethiopia
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning
 
-```text
-Web Development    ███████████████░░░░░
-Backend APIs       █████████████░░░░░░░
-Software Testing   ████████░░░░░░░░░░░░
-Flutter & Dart     ██████░░░░░░░░░░░░░░
-UI/UX Design       ██████░░░░░░░░░░░░░░
-```
-
-*Illustrative learning progress, not measured proficiency.*
+- Advanced React and Next.js
+- Flutter and Dart
+- UI/UX Design
+- Software Testing and QA
+- System Design
+- AI-Assisted Software Development
 
 ---
 
-## 🌍 Let's Connect
+## 🎯 Career Goals
+
+My goal is to become a skilled software developer who can design, build, test, and maintain reliable applications.
+
+I am interested in web development, business automation, software testing, and solving real-world problems with technology.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on web applications, automation projects, open-source software, and educational technology projects.
 
 <div align="center">
 
-<a href="https://haileyesus-portfolio7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+### Keep Learning. Keep Building. Keep Improving.
 
-<a href="https://github.com/haileyesus3126">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[Portfolio](https://haileyesus-portfolio7.vercel.app/) • [GitHub](https://github.com/haileyesus3126) • [Email](mailto:haileyesus2024@gmail.com)
 
-<a href="mailto:haileyesus2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💡 Keep Learning. Keep Building. Keep Improving.
-
-*Every project is an opportunity to learn something new.*
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thank you for visiting my GitHub profile!
 
 </div>
