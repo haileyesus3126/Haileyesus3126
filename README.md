@@ -1,194 +1,161 @@
-# Hi there! 👋 I'm Haileyesus Mesfin
 
-### Website Developer | Junior Software Developer | Tech Enthusiast
+<div align="center">
 
-I'm a passionate and self-motivated software developer from Addis Ababa, Ethiopia, with a BSc in Information and Communication Technology from the University of Gondar.
+# 👋 Hi, I'm Haileyesus Mesfin
 
-I enjoy building modern websites, practical web applications, and automation tools that solve real-world problems.
+### Website Developer | Junior Software Developer
 
-My background includes business data management, system analysis, workflow automation, and independent software development projects.
+**Building real-world applications and learning something new every day.**
 
-I am continuously improving my programming skills, exploring new technologies, and working toward becoming a professional software engineer.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;JavaScript+%7C+React+%7C+Next.js;Node.js+%7C+MongoDB+%7C+PostgreSQL;Building+practical+web+applications;Keep+Learning.+Keep+Building." alt="Animated introduction" />
+
+<br/>
+
+<a href="https://haileyesus-portfolio7.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/haileyesus3126?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore_Code-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:haileyesus2024@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
+## 🚀 About Me
 
-## 📊 My GitHub Stats
+I'm a software developer from **Addis Ababa, Ethiopia**, with a BSc in Information and Communication Technology from the **University of Gondar**.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=haileyesus3126&theme=radical)
+I enjoy developing websites, building useful applications, and automating repetitive tasks.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=radical)
+My previous professional experience includes business data management, system analysis, and workflow automation.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=radical)
+- 💻 Building applications with React, Next.js and Node.js
+- 🌱 Learning Flutter, Dart, UI/UX and software testing
+- 🛠️ Interested in solving real business problems
+- 🎯 Working toward becoming a professional software engineer
+- 🤝 Open to junior developer opportunities and collaboration
 
+---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
-**Languages**
+<div align="center">
 
-- JavaScript
-- HTML5, CSS3
-- Python
-- TypeScript
-- Dart
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart&theme=dark" alt="Programming languages" />
 
-**Frontend Development**
+<br/><br/>
 
-- React.js
-- Next.js
-- Tailwind CSS
-- Responsive Web Design
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter&theme=dark" alt="Frameworks and libraries" />
 
-**Backend Development**
+<br/><br/>
 
-- Node.js
-- Express.js
-- REST API Development
-- JWT Authentication
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,git,github&theme=dark" alt="Databases and development tools" />
 
-**Databases**
+<br/><br/>
 
-- MongoDB
-- PostgreSQL
-- MySQL
-- Prisma ORM
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma&theme=dark" alt="Additional tools" />
 
-**Tools & Platforms**
+</div>
 
-- Git & GitHub
-- Visual Studio Code
-- Postman
-- Selenium
-- Playwright
-- Vercel
-- Render
+---
 
-**Currently Learning**
+## 📊 GitHub Statistics
 
-- Flutter & Dart
-- UI/UX Design
-- Software Testing & QA
-- System Design
-- AI-Assisted Software Development
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=haileyesus3126&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=radical&hide_border=true" alt="Most used repository languages" />
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🚀 TaskMaster Pro
+
+A MERN-based task management application.
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+**Features:**
+- JWT authentication
+- Role-based access control
+- Task creation, editing and deletion
+- Comments and task tracking
+- Protected routes and dashboards
+
+[View Repository](https://github.com/haileyesus3126/taskmaster-pro)
+
+### 🏪 StoreMaster Pro
+
+A store information and change management application.
+
+**Technologies:** Next.js, PostgreSQL, Prisma
+
+**Features:**
+- Store information management
+- Role-based permissions
+- Change request approvals
+- Audit logs
+- CSV export
+
+### 📚 Ruth Books Library
+
+A digital library application.
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+**Features:**
+- User registration and login
+- Book categories
+- Book management
+- Admin approval workflow
+- Favorites and downloads
+
+### 🤖 Python Business Automation
+
+Automation solutions for repetitive business workflows.
+
+**Technologies:** Python, Selenium, Playwright, Excel
+
+**Features:**
+- Invoice data processing
+- Excel data cleaning
+- Browser automation
+- Record verification
+
+<div align="center">
+
+### 🔎 Explore More Projects
+
+[**View All My Repositories**](https://github.com/haileyesus3126?tab=repositories)
+
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
-### Data Management, System Analysis & Automation
+**Data Management, System Analysis & Automation**  
+Yosal PLC — Previous Experience
 
-**Yosal PLC | Previous Experience**
-
-My responsibilities included working with business data, analyzing operational processes, and developing automation solutions to improve efficiency.
-
-**Key Contributions:**
-
-- Managed and processed business data.
-- Analyzed workflows and identified opportunities for improvement.
-- Developed Python automation scripts for repetitive tasks.
-- Worked on internal business management applications.
-- Supported data organization, reporting, and process optimization.
-
-This experience helped me understand how technology can solve practical business challenges.
-
----
-
-## 🚀 Featured Projects
-
-### 1. TaskMaster Pro — Task Management System
-
-A full-stack task management application designed to help teams organize and manage their work.
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-**Features:**
-
-- User authentication using JWT
-- Role-based access control
-- Task creation, editing, and deletion
-- Task assignment and management
-- Comments and task tracking
-- Protected routes and dashboard
-
-### 2. StoreMaster Pro — Store Management System
-
-A business management application designed to organize store information and manage updates.
-
-**Technologies:** Next.js, PostgreSQL, Prisma
-
-**Features:**
-
-- Store information management
-- Role-based user permissions
-- Change request approval workflow
-- Audit logs
-- Dashboard and reporting
-- CSV data export
-
-### 3. Order Issues Management System
-
-A business application for tracking vendor order problems and improving issue resolution.
-
-**Technologies:** Web Application, PostgreSQL, Prisma
-
-**Features:**
-
-- Damaged and missing item reporting
-- Vendor issue tracking
-- Credit request management
-- Follow-up reminders
-- Issue status monitoring
-
-### 4. Rent & Lease Management System
-
-An internal business application designed to organize commercial property and lease information.
-
-**Features:**
-
-- Store and landlord information
-- Lease record management
-- Rent payment tracking
-- Payment portal references
-- Business record organization
-
-### 5. Ruth Books Library
-
-A full-stack digital library application for managing and discovering books.
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-**Features:**
-
-- User registration and login
-- Book categories
-- Book uploads and management
-- Admin approval workflow
-- Favorites and downloads
-
-### 6. Python Business Automation
-
-Automation scripts designed to reduce repetitive manual work.
-
-**Technologies:** Python, Selenium, Playwright, Excel
-
-**Features:**
-
-- Invoice data processing
-- Excel data cleaning
-- Automated record organization
-- Browser-based workflow automation
-- Data verification support
-
----
-
-## 📚 Currently Working On
-
-- Improving my React and Next.js development skills.
-- Building practical full-stack applications.
-- Learning Flutter for cross-platform app development.
-- Studying software architecture and system design.
-- Improving my debugging and software testing skills.
-- Exploring AI tools for software development.
+- Managed and organized business data
+- Analyzed operational workflows
+- Developed Python automation scripts
+- Worked on internal business applications
+- Supported reporting and process improvements
 
 ---
 
@@ -200,42 +167,42 @@ University of Gondar, Ethiopia
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Currently Learning
 
-My goal is to become a skilled software developer who can design, build, test, and maintain reliable applications.
+```text
+Web Development    ███████████████░░░░░
+Backend APIs       █████████████░░░░░░░
+Software Testing   ████████░░░░░░░░░░░░
+Flutter & Dart     ██████░░░░░░░░░░░░░░
+UI/UX Design       ██████░░░░░░░░░░░░░░
+```
 
-I am particularly interested in:
-
-- Website and web application development
-- Full-stack JavaScript development
-- Business process automation
-- Software testing and quality assurance
-- Real-world problem-solving with technology
-
-I am open to junior software development opportunities, internships, collaborative projects, and continuous learning.
+*Illustrative learning progress, not measured proficiency.*
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Let's Connect
 
-**Portfolio:&#x20;**[https://haileyesus-portfolio7.vercel.app/](https://haileyesus-portfolio7.vercel.app/)
+<div align="center">
 
-**GitHub:** [github.com/haileyesus3126](https://github.com/haileyesus3126)
+<a href="https://haileyesus-portfolio7.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-**Location:** Addis Ababa, Ethiopia
+<a href="https://github.com/haileyesus3126">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<a href="mailto:haileyesus2024@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🤝 Let's Collaborate
+<br/><br/>
 
-I'm interested in collaborating on web applications, automation projects, open-source software, and educational technology projects.
-
-I believe that consistent learning, practical experience, and teamwork are important for becoming a better developer.
-
----
-
-### 💡 My Philosophy
-
-**"Keep Learning. Keep Building. Keep Improving."**
+### 💡 Keep Learning. Keep Building. Keep Improving.
 
 *Every project is an opportunity to learn something new.*
+
+⭐ Thanks for visiting my GitHub profile!
+
+</div>
