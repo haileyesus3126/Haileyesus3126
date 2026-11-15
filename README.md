@@ -12,6 +12,16 @@ I am continuously improving my programming skills, exploring new technologies, a
 
 ---
 
+
+## 📊 My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=haileyesus3126&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=radical)
+
+
 ## 🛠️ Skills & Technologies
 
 **Languages**
