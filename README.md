@@ -1,262 +1,141 @@
+# Hi, I’m Haileyesus Mesfin 👋
 
-<div align="center">
+### Website Developer
 
-# Hi there! 👋 I'm Haileyesus Mesfin
+I build websites, business tools, and Python automations.
 
-### Website Developer | Junior Software Developer | Tech Enthusiast
+📍 Addis Ababa, Ethiopia  
+💼 Looking for a Website Developer job  
+🎓 BSc in ICT — University of Gondar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Real-World+Web+Applications;Learning+React%2C+Next.js+and+Flutter;Keep+Learning.+Keep+Building.+Keep+Improving." alt="Animated introduction" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=haileyesus3126&color=blueviolet&style=for-the-badge)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge)](https://haileyesus-portfolio7.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/haileyesus3126)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haileyesus2024@gmail.com)
-
-</div>
+[Portfolio](https://haileyesus-portfolio7.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/haileyesus3126/) · [Email](mailto:haileyesus2024@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a self-motivated developer from Addis Ababa, Ethiopia, with a BSc in Information and Communication Technology from the University of Gondar.
+I enjoy building useful web applications that make daily work easier.
 
-I enjoy building practical web applications, automation tools, and software that solves real-world problems.
+My projects include task management, inventory management, order tracking, rental management, and online shopping websites.
 
-- 🔭 Building practical web development projects
-- 🌱 Learning Flutter, UI/UX, and software testing
-- 💻 Interested in React, Next.js, and Node.js
-- 🛠️ Experience with business data and automation
-- 🎯 Goal: Become a skilled professional software developer
-- 📍 Based in Addis Ababa, Ethiopia
-- 🤝 Open to junior developer opportunities and collaboration
+I also use Python to automate repeated tasks. I use AI tools to help with development while improving my coding, testing, and debugging skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills
 
-### Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+| Area | Technologies |
+|---|---|
+| Frontend | JavaScript, React, Next.js, HTML, CSS |
+| Backend | Node.js, Express, REST APIs, JWT |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| Automation | Python, Selenium |
+| Tools | Git, GitHub, Postman, Replit |
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 01 — TaskMaster Pro
+### Task Management System
 
-A task management application designed to help teams organize their work.
+A web application that helps users create, assign, and track tasks.
 
-**Technologies:** React, Node.js, Express, MongoDB
+- User login and role-based access
+- Task management and comments
+- Built with React, Node.js, Express, and MongoDB
 
-**Features:**
-- JWT authentication
-- Role-based access control
-- Task creation, editing, and deletion
-- Task assignments
-- Comments and task tracking
-- Protected routes and dashboards
+[Live Demo](https://task-management-app-nine-coral.vercel.app/) · [Source Code](https://github.com/haileyesus3126/task-management-app-)
 
-### 02 — StoreMaster Pro
+### Inventory Management System
 
-A business management application for organizing store information.
+I worked with a team to build an inventory management system using Next.js.
 
-**Technologies:** Next.js, PostgreSQL, Prisma
+- Manage product records
+- Track stock and inventory changes
+- Support business reports
 
-**Features:**
-- Store information management
-- User roles and permissions
-- Change request approval workflow
-- Audit logs
-- Dashboard and reporting
-- CSV export
+[Live Demo](https://inventory-management.swingsignalpro.com/)
 
-### 03 — DMV Luxury Amenity Inventory System
+### Order Issue Management System
 
-An inventory management project focused on organizing and tracking inventory information.
+An internal web tool for tracking missing or damaged products.
 
-**Project Focus:**
-- Inventory organization
-- Inventory records
-- Business workflow support
+- Record order issues
+- Track vendor follow-ups
+- Monitor credit requests
 
-### 04 — Ruth Store
+Built using Replit and AI-assisted tools.
 
-A store management project focused on organizing product information and supporting retail operations.
+### Rental Management System
 
-**Project Focus:**
-- Product information organization
-- Store-related data management
-- Practical retail application development
+An internal web tool for managing rental records.
 
-### 05 — Ruth Books Library
+- Organize store and landlord details
+- Track rent payments
+- Keep lease information in one place
 
-A digital library application for discovering and managing books.
+Built using Replit and AI-assisted tools.
 
-**Technologies:** React, Node.js, Express, MongoDB
+### Ruth Store
 
-**Features:**
-- User registration and login
-- Book categories
-- Book management
-- Admin approval workflow
-- Favorites and downloads
+A responsive shopping website for browsing products.
 
-### 06 — Python Business Automation
+Built with React, JavaScript, HTML, and CSS.
 
-Automation solutions for repetitive business processes.
+[Live Demo](https://ruth-store-7.vercel.app/) · [Source Code](https://github.com/haileyesus3126/Ruth-Store-7)
 
-**Technologies:** Python, Selenium, Playwright, Excel
+### Amazon and Netflix Clones
 
-**Features:**
-- Invoice data processing
-- Excel data cleaning
-- Automated record organization
-- Browser workflow automation
-- Data verification support
+Personal projects inspired by shopping and movie websites.
 
-### 07 — Order Issues Management System
+I built these to practice page layouts, cards, and responsive design.
 
-An application for tracking vendor order problems.
+### Python Automation
 
-**Technologies:** PostgreSQL, Prisma
+Tools that help reduce repeated work.
 
-**Features:**
-- Damaged and missing item reporting
-- Vendor issue tracking
-- Credit request management
-- Follow-up reminders
-- Issue status monitoring
-
-### 08 — Rent & Lease Management System
-
-An internal application for organizing commercial property and lease records.
-
-**Features:**
-- Store and landlord information
-- Lease record management
-- Rent payment tracking
-- Payment portal references
-- Business record organization
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/haileyesus3126?tab=repositories)
-
-</div>
+- Process and organize invoice data
+- Clean Excel records
+- Automate browser tasks
+- Prepare short video clips
 
 ---
 
-## 📊 My GitHub Statistics
+## Previous Experience
 
-<div align="center">
+### Yosal PLC
 
-![GitHub Streak](https://streak-stats.demolab.com?user=haileyesus3126&theme=tokyonight&hide_border=true)
+I worked on business data, internal web tools, and automation.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haileyesus3126&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haileyesus3126&layout=compact&theme=tokyonight)
-
-</div>
-
+- Helped build tools for order issues and rental records
+- Used Python to automate repeated tasks
+- Checked web tools and helped fix errors
+- Organized and updated business data
 
 ---
 
-## 🐍 My Contribution Snake
+## Education
 
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/haileyesus3126/Haileyesus3126/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### Data Management, System Analysis & Automation
-**Yosal PLC — Previous Experience**
-
-- Managed and processed business data
-- Analyzed operational workflows
-- Developed Python automation scripts
-- Worked on internal business applications
-- Supported reporting and process optimization
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Information and Communication Technology**
-
+**Bachelor of Science in Information and Communication Technology**  
 University of Gondar, Ethiopia
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- Advanced React and Next.js
+- React and Next.js
 - Flutter and Dart
-- UI/UX Design
-- Software Testing and QA
-- System Design
-- AI-Assisted Software Development
+- UI/UX design
+- Software testing and debugging
 
 ---
 
-## 🎯 Career Goals
+## Contact Me
 
-My goal is to become a skilled software developer who can design, build, test, and maintain reliable applications.
+I’m looking for a Website Developer job where I can contribute, learn, and grow.
 
-I am interested in web development, business automation, software testing, and solving real-world problems with technology.
+- [View my portfolio](https://haileyesus-portfolio7.vercel.app/)
+- [Connect on LinkedIn](https://www.linkedin.com/in/haileyesus3126/)
+- [Send me an email](mailto:haileyesus2024@gmail.com)
 
----
-
-## 🤝 Let's Collaborate
-
-I'm interested in collaborating on web applications, automation projects, open-source software, and educational technology projects.
-
-<div align="center">
-
-### Keep Learning. Keep Building. Keep Improving.
-
-[Portfolio](https://haileyesus-portfolio7.vercel.app/) • [GitHub](https://github.com/haileyesus3126) • [Email](mailto:haileyesus2024@gmail.com)
-
-⭐ Thank you for visiting my GitHub profile!
-
-</div>
+**Keep learning. Keep building.**
